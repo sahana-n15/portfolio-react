@@ -24,12 +24,10 @@ const HeroSection = () => {
               sequence={[
                 "Sahana N",
                 1000,
-                "Software Engineer",
+                "Data Engineer",
                 1000,
                 "Machine Learnig Ethusiastic",
-                1000,
-                "Web developer ",
-                1000,
+                1000
               ]}
               wrapper="span"
               speed={50}
@@ -37,8 +35,8 @@ const HeroSection = () => {
             />
           </h1>
           <p className="text-[#ADB7BE] text-base sm:text-s mb-6 s:text-xs">
-            Computer Science Student | GFG Rank 7 (Institute Level) | HackerRank
-            5⭐ | Web Development and Machine Learning Enthusiast | Open to Exciting Opportunities
+            Data Engineer | GFG Rank 7 (Institute Level) | HackerRank
+            5⭐ | Data Engineering and Machine Learning Enthusiast | Open to Exciting Opportunities
           </p>
           <div>
             <Link
@@ -48,7 +46,7 @@ const HeroSection = () => {
               Hire Me
             </Link>
             <Link
-              href="/SahanaN.pdf"
+              href="/Sahana_N.pdf"
               className="px-1 inline-block py-1 w-full sm:w-fit rounded-full bg-gradient-to-br from-primary-500 to-secondary-500 hover:bg-slate-800 text-white mt-3"
             >
               <span className="block bg-[#121212] hover:bg-slate-800 rounded-full px-5 py-2">

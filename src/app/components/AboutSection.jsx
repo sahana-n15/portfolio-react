@@ -10,12 +10,12 @@ const TAB_DATA = [
     content: (
       <ul className="list-disc pl-2">
         <li>Java</li>
-        <li>Html</li>
-        <li>CSS</li>
-        <li>JavaScript</li> <li>Mongo DB</li>
-        <li>Express</li>
-        <li>React</li>
-        <li>Node.js</li>
+        <li>SQL</li>
+        <li>Python</li>
+        <li>Azure</li>
+        <li>Snowflake</li>
+        <li>Databricks</li>
+        <li>Fivetran</li>
         <li>Machine Learning</li>
       </ul>
     ),
@@ -39,14 +39,15 @@ const TAB_DATA = [
     id: "certifications",
     content: (
       <ul className="list-disc pl-2">
-        <li>Introduction to Cyber Security-Cisco</li>
+        <li>SnowPro Assoicate - Platform Certificate</li>
         <li>
           Career Essentials in Generative AI by Microsoft and LinkedIn -
           Microsoft
         </li>
-        <li>Web development Fundamentals -IBM </li>
-        <li>SQL Adavanced-HackerRank </li>
-        <li>Cloud Computing -GeeksforGeeks</li>
+        <li>Azure Data Engineering Bootcamp - Udemy</li>
+        <li>SQL Adavanced - HackerRank </li>
+        <li>Cloud Computing - GeeksforGeeks</li>
+        <li>Problem Solving - HackerRank</li>
       </ul>
     ),
   },
@@ -71,7 +72,7 @@ const AboutSection = () => {
           <p className="text-base lg:text-lg">
           I am a passionate Computer Science undergraduate with a strong interest in technology and problem-solving. 
           With a dedicated and persistent approach, I strive to excel in my work and achieve remarkable results.
-           My primary areas of interest revolve around Machine Learning and web development.
+           My primary areas of interest revolve around Data Engineering and Machine Learning.
             I find immense joy in exploring the vast possibilities offered by these fields and leveraging them to create practical solutions. 
             Throughout my academic journey, I have had the opportunity to work on various projects that have provided me with hands-on experience and real-world application. 
             By merging my knowledge and skills, I have developed a collection of projects that showcase my ability to tackle challenges and deliver tangible outcomes. 
